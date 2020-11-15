@@ -1,6 +1,6 @@
 {
-  "name": "BetaBOT",
-  "version": "1.0.0",
+  "name": "WerfBOT",
+  "version": "1.000",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
   "directories": {
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/WerfDash/botwa1"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Ihsan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/WerfDash/botwa1/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/WerfDash/botwa1#readme"
 }
